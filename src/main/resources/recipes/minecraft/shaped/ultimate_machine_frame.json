@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:diamond",
-    "d": "nova:star_dust",
+    "g": "minecraft:netherite_block",
+    "d": "nova:star_shards",
     "m": "nova:elite_machine_frame"
   }
 }
