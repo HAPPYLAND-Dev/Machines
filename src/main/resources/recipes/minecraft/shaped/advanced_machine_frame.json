@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:gold_ingot",
-    "d": "minecraft:glowstone_dust",
+    "g": "minecraft:gold_block",
+    "d": "minecraft:netherite_ingot",
     "m": "nova:basic_machine_frame"
   }
 }
