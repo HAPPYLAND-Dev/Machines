@@ -6,9 +6,9 @@
     "idi"
   ],
   "ingredients": {
-    "i": "nova:iron_plate",
+    "i": "nova:netherite_plate",
     "d": "nova:diamond_plate",
     "g": "nova:emerald_gear",
-    "f": "nova:advanced_machine_frame"
+    "f": "nova:creative_machine_frame"
   }
 }
