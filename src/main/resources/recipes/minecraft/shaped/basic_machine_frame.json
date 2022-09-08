@@ -6,8 +6,8 @@
     "idi"
   ],
   "ingredients": {
-    "i": "minecraft:iron_ingot",
+    "i": "minecraft:iron_block",
     "r": "minecraft:redstone_block",
-    "d": "minecraft:redstone"
+    "d": "minecraft:diamond"
   }
 }
