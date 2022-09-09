@@ -2,12 +2,12 @@
   "result": "nova:chunk_loader",
   "shape": [
     "igi",
-    "dfd",
-    "idi"
+    "fdf",
+    "ifi"
   ],
   "ingredients": {
     "i": "nova:netherite_plate",
-    "d": "nova:diamond_plate",
+    "d": "nova:lapis_gear",
     "g": "nova:emerald_gear",
     "f": "nova:creative_machine_frame"
   }
