@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_f",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "minecraft:end_crystal",
+    "d": "nova:opinium_e",
+    "m": "nova:lapis_gear"
+  }
+}
