@@ -1,0 +1,13 @@
+{
+  "result": "itemsadder:wtf_ingot_1",
+  "shape": [
+    "aaa",
+    "dmg",
+    "aaa"
+  ],
+  "ingredients": {
+    "g": "minecraft:diamond_block",
+    "d": "minecraft:netherite_block",
+    "m": "minecraft:stick"
+  }
+}
