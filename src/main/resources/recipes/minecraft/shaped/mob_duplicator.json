@@ -3,14 +3,14 @@
   "shape": [
     "nan",
     "efu",
-    "nsn"
+    "sss"
   ],
   "ingredients": {
-    "n": "nova:netherite_plate",
+    "n": "nova:netherite_gear",
     "a": "nova:advanced_machine_frame",
     "e": "nova:elite_machine_frame",
     "u": "nova:ultimate_machine_frame",
-    "s": "minecraft:beacon",
+    "s": "nova:unstable_ingot",
     "f": "nova:creative_machine_frame"
   }
 }
