@@ -1,0 +1,11 @@
+{
+  "result": "nova:unstable_ingot",
+  "shape": [
+    "nnn",
+    "nnn",
+    "nnn"
+  ],
+  "ingredients": {
+    "n": "nova:unstable_nugget"
+  }
+}
