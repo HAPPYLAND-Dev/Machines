@@ -1,0 +1,11 @@
+{
+  "result": "itemsadder:wtf_ingot_2",
+  "shape": [
+    "www",
+    "www",
+    "www"
+  ],
+  "ingredients": {
+    "w": "itemsadder:wtf_ingot_1"
+  }
+}
