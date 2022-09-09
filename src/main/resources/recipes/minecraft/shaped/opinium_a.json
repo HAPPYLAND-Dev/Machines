@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_a",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "minecraft:iron_ingot",
+    "d": "minecraft:coal",
+    "m": "minecraft:smooth_stone"
+  }
+}
