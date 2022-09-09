@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "nova:ultimate_machine_frame",
-    "d": "nova:star_collector",
-    "m": "nova:netherite_gear"
+    "g": "nova:unstable_ingot",
+    "d": "nova:moon_stone",
+    "m": "nova:opinium_max"
   }
 }
