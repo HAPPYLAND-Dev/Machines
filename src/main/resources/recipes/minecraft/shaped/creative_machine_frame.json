@@ -1,0 +1,13 @@
+{
+  "result": "nova:creative_machine_frame",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "nova:ultimate_machine_frame",
+    "d": "nova:star_collector",
+    "m": "nova:netherite_gear"
+  }
+}
