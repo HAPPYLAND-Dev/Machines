@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_c",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "minecraft:diamond",
+    "d": "nova:opinium_b",
+    "m": "nova:copper_gear"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_e",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "minecraft:netherite_ingot",
+    "d": "nova:opinium_d",
+    "m": "nova:redstone_gear"
+  }
+}

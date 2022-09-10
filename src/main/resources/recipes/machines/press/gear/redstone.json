@@ -1,5 +1,5 @@
 {
-  "input": "minecraft:redstone",
+  "input": "minecraft:redstone_block",
   "result": "nova:redstone_gear",
-  "time": 200
+  "time": 300
 }

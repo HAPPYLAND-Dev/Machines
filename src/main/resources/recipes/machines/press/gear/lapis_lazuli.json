@@ -1,5 +1,5 @@
 {
-  "input": "minecraft:lapis_lazuli",
+  "input": "minecraft:lapis_block",
   "result": "nova:lapis_gear",
-  "time": 200
+  "time": 300
 }

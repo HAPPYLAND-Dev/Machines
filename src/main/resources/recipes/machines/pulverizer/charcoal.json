@@ -1,0 +1,6 @@
+{
+  "input": "minecraft:charcoal",
+  "result": "nova:coal_dust",
+  "amount": 1,
+  "time": 20
+}

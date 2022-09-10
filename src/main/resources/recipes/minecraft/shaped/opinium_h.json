@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_h",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "minecraft:nether_star",
+    "d": "nova:opinium_g",
+    "m": "nova:emerald_gear"
+  }
+}

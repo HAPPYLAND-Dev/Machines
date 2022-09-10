@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:gold_ingot",
-    "d": "minecraft:glowstone_dust",
+    "g": "minecraft:opinium_b",
+    "d": "minecraft:diamond",
     "m": "nova:basic_machine_frame"
   }
 }

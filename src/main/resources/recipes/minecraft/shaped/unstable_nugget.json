@@ -1,0 +1,19 @@
+{
+  "result": "nova:unstable_nugget",
+  "shape": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "ingredients": {
+    "a": "minecraft:coal_block",
+    "b": "minecraft:iron_block",
+    "c": "minecraft:gold_block",
+    "d": "minecraft:lapis_block",
+    "e": "minecraft:redstone_block",
+    "f": "minecraft:copper_block",
+    "g": "minecraft:diamond_block",
+    "h": "minecraft:emerald_block",
+    "i": "minecraft:quartz_block"
+  }
+}

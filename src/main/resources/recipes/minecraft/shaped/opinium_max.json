@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_max",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "nova:moon_stone",
+    "d": "nova:opinium_h",
+    "m": "nova:unstable_ingot"
+  }
+}
