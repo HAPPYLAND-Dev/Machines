@@ -78,6 +78,18 @@ crafting:
     - machines:creative_machine_frame
     - machines:solar_cell
     - machines:scaffolding
+    - machines:opinium_a
+    - machines:opinium_b
+    - machines:opinium_c
+    - machines:opinium_d
+    - machines:opinium_e
+    - machines:opinium_f
+    - machines:opinium_g
+    - machines:opinium_h
+    - machines:opinium_max
+    - machines:unstable_nugget
+    - machines:unstable_ingot
+    - machines:moon_stone
     - machines:netherite_drill
 
 misc:
