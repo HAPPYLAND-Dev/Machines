@@ -1,0 +1,13 @@
+{
+  "result": "nova:opinium_g",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "minecraft:experience_bottle",
+    "d": "nova:opinium_f",
+    "m": "nova:diamond_gear"
+  }
+}

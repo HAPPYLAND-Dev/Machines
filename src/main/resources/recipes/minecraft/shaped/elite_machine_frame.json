@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:gold_ingot",
-    "d": "nova:star_dust",
+    "g": "nova:star_shards",
+    "d": "nova:opinium_d",
     "m": "nova:advanced_machine_frame"
   }
 }

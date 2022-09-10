@@ -1,0 +1,12 @@
+{
+  "result": "nova:moon_stone",
+  "shape": [
+    "lll",
+    "lml",
+    "lll"
+  ],
+  "ingredients": {
+    "g": "minecraft:lapis_block",
+    "m": "nova:unstable_ingot"
+  }
+}

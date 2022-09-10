@@ -1,5 +1,5 @@
 {
-  "input": "minecraft:emerald",
+  "input": "minecraft:emerald_block",
   "result": "nova:emerald_gear",
-  "time": 200
+  "time": 300
 }

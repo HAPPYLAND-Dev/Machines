@@ -1,13 +1,14 @@
 {
   "result": "nova:mechanical_press",
   "shape": [
-    "ici",
+    "iai",
     "ifi",
-    "iai"
+    "bbb"
   ],
   "ingredients": {
     "i": "minecraft:iron_ingot",
     "a": "minecraft:anvil",
+    "b": "minecraft:iron_block",
     "f": "nova:basic_machine_frame"
   }
 }

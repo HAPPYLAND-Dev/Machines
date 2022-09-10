@@ -1,0 +1,13 @@
+{
+  "result": "nova:creative_machine_frame",
+  "shape": [
+    "gdg",
+    "dmd",
+    "gdg"
+  ],
+  "ingredients": {
+    "g": "nova:unstable_ingot",
+    "d": "nova:moon_stone",
+    "m": "nova:opinium_max"
+  }
+}

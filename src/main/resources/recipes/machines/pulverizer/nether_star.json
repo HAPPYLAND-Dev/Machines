@@ -1,0 +1,6 @@
+{
+  "input": "minecraft:nether_star",
+  "result": "nova:star_shards",
+  "amount": 2,
+  "time": 50
+}
