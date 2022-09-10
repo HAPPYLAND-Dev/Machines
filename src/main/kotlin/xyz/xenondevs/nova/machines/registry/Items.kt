@@ -49,6 +49,19 @@ object Items {
     val NETHERITE_DRILL = registerDefaultItem(Machines, "netherite_drill")
     val SCAFFOLDING = registerDefaultItem(Machines, "scaffolding")
     val SOLAR_CELL = registerDefaultItem(Machines, "solar_cell")
+
+    val MOON_STONE = registerDefaultItem(Machines, "moon_stone")
+    val OPINIUM_A = registerDefaultItem(Machines, "opinium_a")
+    val OPINIUM_B = registerDefaultItem(Machines, "opinium_b")
+    val OPINIUM_C = registerDefaultItem(Machines, "opinium_c")
+    val OPINIUM_D = registerDefaultItem(Machines, "opinium_d")
+    val OPINIUM_E = registerDefaultItem(Machines, "opinium_e")
+    val OPINIUM_F = registerDefaultItem(Machines, "opinium_f")
+    val OPINIUM_G = registerDefaultItem(Machines, "opinium_g")
+    val OPINIUM_H = registerDefaultItem(Machines, "opinium_h")
+    val OPINIUM_MAX = registerDefaultItem(Machines, "opinium_max")
+    val UNSTABLE_NUGGET = registerDefaultItem(Machines, "unstable_nugget")
+    val UNSTABLE_INGOT = registerDefaultItem(Machines, "unstable_ingot")
     
     fun init() = Unit
     
