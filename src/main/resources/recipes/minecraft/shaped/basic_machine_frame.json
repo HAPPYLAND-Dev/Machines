@@ -7,7 +7,7 @@
   ],
   "ingredients": {
     "i": "minecraft:iron_block",
-    "r": "minecraft:redstone_block",
+    "r": "nova:opinium_a",
     "d": "minecraft:diamond"
   }
 }
