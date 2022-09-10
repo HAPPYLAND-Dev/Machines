@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:diamond_block",
-    "d": "nova:star_shards",
+    "g": "nova:star_shards",
+    "d": "nova:opinium_d",
     "m": "nova:advanced_machine_frame"
   }
 }
