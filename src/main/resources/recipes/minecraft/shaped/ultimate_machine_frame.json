@@ -6,8 +6,8 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:netherite_block",
-    "d": "nova:star_shards",
+    "g": "nova:unstable_ingot",
+    "d": "nova:opinium_f",
     "m": "nova:elite_machine_frame"
   }
 }
