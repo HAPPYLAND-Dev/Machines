@@ -6,7 +6,7 @@
     "gdg"
   ],
   "ingredients": {
-    "g": "minecraft:opinium_b",
+    "g": "nova:opinium_b",
     "d": "minecraft:diamond",
     "m": "nova:basic_machine_frame"
   }
