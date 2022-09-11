@@ -6,7 +6,7 @@
     "lll"
   ],
   "ingredients": {
-    "g": "minecraft:lapis_block",
+    "l": "minecraft:lapis_block",
     "m": "nova:unstable_ingot"
   }
 }
